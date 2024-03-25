@@ -1,5 +1,4 @@
 # Poster-Image-Generator
-Certainly! Below is a README file for your code:
 
 ---
 
